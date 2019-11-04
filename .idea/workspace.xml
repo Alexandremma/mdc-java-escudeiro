@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64995eb1-2920-47ef-835b-fb7a06dfe0c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/db1/escudeiro/basico/exercicio1/exercicio1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/db1/escudeiro/basico/exercicio1/exercicio-1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/db1/escudeiro/basico/exercicio1/exercicio1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/db1/escudeiro/basico/exercicio1/exercicio1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/db1/escudeiro/basico/exercicio1/exercicio1.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

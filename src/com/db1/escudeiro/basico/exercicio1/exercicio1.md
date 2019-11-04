@@ -1,4 +1,8 @@
-#História do Java
+####Pergunta
+Vamos fazer uma viagem ao passado. O Java foi criado na década de 90. Vamos entender qual foi a motivação da criação da linguagem, seus principais conceitos e características e qual sua importância para o desenvolvimento de software. Faça, então, sua pesquisa e pontue seu entendimento sobre tudo isso.
+
+####Resposta
+#####História do Java
 
 A história do Java começa em 1991, quando uma equipe, comandada por James Gosling, da empresa Sun Microsystems iniciou um projeto chamado Projeto Green. O objetivo do projeto era interligar várias interfaces para fazer com que dispositivos diferentes fossem capazes de trabalhar e se comunicar entre si.
 Com o tempo perceberam que não poderiam ficar presos aos sistemas operacionais, até porque os clientes não estavam interessados no tipo de processador que estavam utilizando, e sim na tecnologia. Portanto, para o grupo, era inviável criar uma versão do projeto para cada tipo de sistema.
@@ -8,8 +12,7 @@ Em 1994 estavam surgindo as linguagens Web (como a linguagem HTML) e projetos re
 O projeto Web Runner teve seu nome mudado para HotJava, continuando com o objetivo de trazer a iteratividade do Java para a web. Para assim ser possível uma iteratividade entre sistemas web e mecanismos externos, por exemplo.
 A linguagem Java ficou cada vez mais conhecida, sendo uma linguagem considerada “do futuro”. Em 2006 ela virou um Software de código aberto (OpenSource). Em 2009 a empresa Sun Microsystem foi vendida para a Oracle, que passou a ser proprietária da linguagem Java.
 
-
-#Características do Java
+#####Características do Java
 
 Java é orientado a objetos e, com exceção dos tipos primitivos, tudo é representado na forma de objetos. Até mesmo os tipos primitivos podem ser encapsulados em objetos sempre que isso for necessário. Os programas são compostos por classes, que representam categorias de objetos e podem herdar atributos e métodos de outras classes. A ausência de herança múltipla é compensada com o uso de interfaces, onde uma classe pode herdar características de uma superclasse e ainda implementar métodos de uma ou mais interfaces. Toda a variável ou método pertence a uma classe ou objeto e só pode ser invocada através dessa classe ou objeto. Isso reforça seu forte caráter orientado a objeto.
 O Java é uma linguagem altamente tipada, ou seja, a linguagem detecta os tipos de variáveis quando declaradas, isso faz com que o programador tenha que declarar corretamente cada variável do seu programa, o que facilita no entendimento e manutenção do código.
