@@ -17,8 +17,8 @@ Para iniciar sua aventura, basta apenas escolher seu território e realizar as m
 
 [Exercício 1](https://github.com/Alexandremma/mdc-java-escudeiro/blob/master/src/com/db1/escudeiro/basico/exercicio1/exercicio1.md)
 
-[Exercício 2](https://github.com/Alexandremma/mdc-java-escudeiro/blob/master/src/com/db1/escudeiro/basico/exercicio1/exercicio2.md)
+[Exercício 2](https://github.com/Alexandremma/mdc-java-escudeiro/blob/master/src/com/db1/escudeiro/basico/exercicio2/exercicio2.md)
 
-[Exercício 3](https://github.com/Alexandremma/mdc-java-escudeiro/blob/master/src/com/db1/escudeiro/basico/exercicio1/exercicio3.md)
+[Exercício 3](https://github.com/Alexandremma/mdc-java-escudeiro/blob/master/src/com/db1/escudeiro/basico/exercicio3/exercicio3.md)
 
-[Exercício 4](https://github.com/Alexandremma/mdc-java-escudeiro/blob/master/src/com/db1/escudeiro/basico/exercicio1/exercicio4.md)
+[Exercício 4](https://github.com/Alexandremma/mdc-java-escudeiro/blob/master/src/com/db1/escudeiro/basico/exercicio4/exercicio4.md)
