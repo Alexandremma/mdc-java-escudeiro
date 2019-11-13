@@ -1,4 +1,4 @@
-####Pergunta
+## Pergunta
 No mundo Java existe uma sopa de letrinhas e siglas, mas algumas são fundamentais para o entendimento do propósito da linguagem. Vamos, então, aprender um pouco mais sobre a plataforma. Pesquise sobre:
 
 - JVM
@@ -7,9 +7,9 @@ No mundo Java existe uma sopa de letrinhas e siglas, mas algumas são fundamenta
 
 Pontue o que cada palavra significa, onde e quando usamos e qual a importância de cada uma delas.
 
-####Resposta
+## Resposta
 
-* #####JVM
+* ##### JVM
 JVM - Java Virtual Machine (Máquina Virtual Java)
 Uma máquina virtual é um software que simula uma máquina física e consegue executar vários programas, gerenciar processos, memórias e arquivos. Ou seja, é uma plataforma onde a memória, o processador e seus outros recursos, são totalmente virtuais, não dependendo de hardware. 
 A Java Virtual Machine é a máquina virtual do Java, responsável pelas características de portabilidade dos códigos, ela mantém a independência entre as plataformas da linguagem.
@@ -20,14 +20,14 @@ A JVM não entende código Java e sim um código específico chamado ByteCode, q
 
 Graças à máquina virtual Java, os programas desenvolvidos em Java podem funcionar em qualquer plataforma de hardware e software que possua uma versão da JVM, tornando assim essas aplicações independentes da plataforma onde funcionam.
 
-* #####JDK
+* ##### JDK
 JDK, abreviação de Java Development Kit (Kit de Desenvolvimento Java), é uma ferramenta que tem a finalidade de distribuir todos os recursos necessários para se desenvolver uma aplicação Java. É composto pelo compilador e pelas bibliotecas necessárias para criação de programa em Java e ferramentas úteis para o desenvolvimento e testes dos programas escritos por esta linguagem de programação (isso inclui a JVM e o JRE).
 
 Esta ferramenta é utilizada por quem quer desenvolver na linguagem Java. O JDK dispõe um arquivo executável que faz todo o trabalho de instalação e configuração do ambiente, o que facilita ainda mais a execução de qualquer aplicação Java e criação de programas de forma mais simplificada, diminuindo os esforços do desenvolvedor.
 
 O JDK disponibiliza todo o ambiente necessário para a criação e execução de aplicações desenvolvidas em Java.
 
-* #####JRE
+* ##### JRE
 
 JRE, Java Runtime Enviroment (Ambiente de Execução Java), é o ambiente de tempo de execução Java. É composto por bibliotecas e pela Máquina Virtual Java (JVM).
 

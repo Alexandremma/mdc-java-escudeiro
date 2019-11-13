@@ -1,4 +1,4 @@
-####Pergunta
+## Pergunta
 Para começarmos desenvolver em Java, precisamos de muito pouco. Basta um editor de texto, uma outra coisinha que você aprendeu na questão de número 2 e um terminal. Crie uma classe Java utilizando um editor qualquer. Esta classe deve ter um método main que imprima a frase “Hello World!”, para começarmos com o pé direito esta aventura de programação. Agora faça uma explanação sobre:
 
 1. O que você precisou para resolver esta questão;
@@ -8,7 +8,7 @@ Para começarmos desenvolver em Java, precisamos de muito pouco. Basta um editor
 5. O que é o método main e qual a sua importância;
 6. O que é e em que momento da resolução da questão foi gerado o BYTECODE;
 
-####Resposta
+## Resposta
 1. Foi necessário um editor de texto, do JDK (Java Development Kit), do terminal, digitar os códigos corretos para criar a classe com o método “main” com a instrução “System.out.printl(‘Hello World!’)” para imprimir a frase “Hello World!”. Depois precisei executar os códigos corretos no terminal para compilar e posteriormente executar o código.
 
 2. Na IDE já tem um compilador que compila “por baixo dos panos”, só é necessário apertar o botão de executar o programa.

@@ -1,7 +1,9 @@
-#### Pergunta
+[Ir para o menu](https://github.com/Alexandremma/mdc-java-escudeiro)
+
+## Pergunta
 Pesquise sobre Garbage Collector e faça uma explanação de como este algoritmo funciona na plataforma Java. Também implemente dois algoritmos em Java: um que exemplifique um possível erro de OutOfMemoryError e outro que mostre os cuidados tomados para não acontecer este tipo de erro durante o desenvolvimento de software.
 
-#### Resposta
+## Resposta
 Em Java, o gerenciamento de memória acontece de maneira automática. O Garbage Collector (GC) é o responsável por realizar de maneira automática esse gerenciamento que tem a finalidade de evitar os problemas de desalocação explícita dos espaços ocupados por objetos não mais referenciados.
 
 A técnica do Garbage Collector consiste na recuperação segura do espaço de memória ocupado por um objeto que não é mais referenciado dentro de uma aplicação.
