@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64995eb1-2920-47ef-835b-fb7a06dfe0c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mdc-java-escudeiro/com/db1/escudeiro/basico/exercicio1/exercicio1.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mdc-java-escudeiro/com/db1/escudeiro/basico/exercicio1/exercicio1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mdc-java-escudeiro/com/db1/escudeiro/basico/exercicio2/exercicio2.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mdc-java-escudeiro/com/db1/escudeiro/basico/exercicio2/exercicio2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mdc-java-escudeiro/com/db1/escudeiro/basico/exercicio3/exercicio3.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mdc-java-escudeiro/com/db1/escudeiro/basico/exercicio3/exercicio3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mdc-java-escudeiro/com/db1/escudeiro/basico/exercicio4/exercicio4.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mdc-java-escudeiro/com/db1/escudeiro/basico/exercicio4/exercicio4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/db1/escudeiro/basico/exercicio1/exercicio1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/db1/escudeiro/basico/exercicio1/exercicio1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/db1/escudeiro/basico/exercicio3/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/db1/escudeiro/basico/exercicio3/HelloWorld.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +49,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OutOfMemoryError">
+  <component name="RunManager" selected="Application.TiposDeDados">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.db1.escudeiro.basico.exercicio3.HelloWorld" />
+      <module name="mdc-java-escudeiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.db1.escudeiro.basico.exercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OutOfMemoryError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.db1.escudeiro.basico.exercicio4.OutOfMemoryError" />
       <module name="mdc-java-escudeiro" />
@@ -57,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.db1.escudeiro.basico.exercicio3.helloWorld" />
+    <configuration name="TiposDeDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.db1.escudeiro.conhecendoaplataforma.tiposdedados.exercicio1.TiposDeDados" />
       <module name="mdc-java-escudeiro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.db1.escudeiro.basico.exercicio3.*" />
+          <option name="PATTERN" value="com.db1.escudeiro.conhecendoaplataforma.tiposdedados.exercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,8 +91,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TiposDeDados" />
         <item itemvalue="Application.OutOfMemoryError" />
-        <item itemvalue="Application.helloWorld" />
+        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>

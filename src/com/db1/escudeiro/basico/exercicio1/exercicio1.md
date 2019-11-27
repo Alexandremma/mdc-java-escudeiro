@@ -22,13 +22,13 @@ A linguagem Java ficou cada vez mais conhecida, sendo uma linguagem considerada 
 
 Java é orientado a objetos e, com exceção dos tipos primitivos, tudo é representado na forma de objetos. Até mesmo os tipos primitivos podem ser encapsulados em objetos sempre que isso for necessário. Os programas são compostos por classes, que representam categorias de objetos e podem herdar atributos e métodos de outras classes. A ausência de herança múltipla é compensada com o uso de interfaces, onde uma classe pode herdar características de uma superclasse e ainda implementar métodos de uma ou mais interfaces. Toda a variável ou método pertence a uma classe ou objeto e só pode ser invocada através dessa classe ou objeto. Isso reforça seu forte caráter orientado a objeto.
 
-O Java é uma linguagem altamente tipada, ou seja, a linguagem detecta os tipos de variáveis quando declaradas, isso faz com que o programador tenha que declarar corretamente cada variável do seu programa, o que facilita no entendimento e manutenção do código.
-
-O Java também garante a confiabilidade dos programas produzidos. O processo de compilação elimina uma grande gama de possíveis problemas e uma checagem dinâmica (realizada em tempo de execução) contorna muitas situações que poderiam gerar erros.
-
-A confiabilidade dos programas escritos com o Java é incrementada com um mecanismo eficiente para contornar situações inesperadas que podem ocorrer em tempo de execução. Essas condições excepcionais, chamadas exceções, podem ser devidamente tratadas para evitar que o programa aborte, mesmo frente a situações de erro.
+O Java é uma linguagem de programação multiplataforma. Os programas em Java podem ser executados em qualquer sistema operacional, desde que o seu interpretador esteja instalado.
 
 A segurança é outro ponto muito forte do Java. Um programa sempre é verificado antes de ser executado. Essa verificação também é realizada nos navegadores e visa impedir que os applets possam provocar quaisquer danos ao computador do usuário. Ademais, como o Java não permite acesso direto à memória, impede seu uso para desenvolvimento de vírus.
+
+O Java é uma linguagem altamente tipada, ou seja, a linguagem detecta os tipos de variáveis quando declaradas, isso faz com que o programador tenha que declarar corretamente cada variável do seu programa, o que facilita no entendimento e manutenção do código.
+
+O Java também garante a confiabilidade dos programas produzidos. O processo de compilação elimina uma grande gama de possíveis problemas e uma checagem dinâmica (realizada em tempo de execução) contorna muitas situações que poderiam gerar erros. A confiabilidade dos programas escritos com o Java é incrementada com um mecanismo eficiente para contornar situações inesperadas que podem ocorrer em tempo de execução. Essas condições excepcionais, chamadas exceções, podem ser devidamente tratadas para evitar que o programa aborte, mesmo frente a situações de erro.
 
 O Java é mais dinâmico que o C/C++. Ele foi projetado para se adaptar facilmente a ambientes em constante evolução (como a Internet). A inclusão de novos métodos e atributos às classes existentes pode ser feita livremente e o tipo de objeto pode ser pesquisado em tempo de execução.
 

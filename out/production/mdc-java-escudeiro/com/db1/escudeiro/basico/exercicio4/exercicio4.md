@@ -1,3 +1,5 @@
+[Ir para o menu](https://github.com/Alexandremma/mdc-java-escudeiro)
+
 ## Pergunta
 Pesquise sobre Garbage Collector e faça uma explanação de como este algoritmo funciona na plataforma Java. Também implemente dois algoritmos em Java: um que exemplifique um possível erro de OutOfMemoryError e outro que mostre os cuidados tomados para não acontecer este tipo de erro durante o desenvolvimento de software.
 
